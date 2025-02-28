@@ -20,12 +20,6 @@
       "languageVersion": "3.0"
     },
     {
-      "name": "archive",
-      "rootUri": "file:///Users/buck/.pub-cache/hosted/pub.dev/archive-4.0.3",
-      "packageUri": "lib/",
-      "languageVersion": "3.0"
-    },
-    {
       "name": "args",
       "rootUri": "file:///Users/buck/.pub-cache/hosted/pub.dev/args-2.6.0",
       "packageUri": "lib/",
@@ -36,12 +30,6 @@
       "rootUri": "file:///Users/buck/.pub-cache/hosted/pub.dev/async-2.13.0",
       "packageUri": "lib/",
       "languageVersion": "3.4"
-    },
-    {
-      "name": "bazel_worker",
-      "rootUri": "file:///Users/buck/.pub-cache/hosted/pub.dev/bazel_worker-1.1.2",
-      "packageUri": "lib/",
-      "languageVersion": "3.1"
     },
     {
       "name": "binary_codec",
@@ -70,12 +58,6 @@
     {
       "name": "build_daemon",
       "rootUri": "file:///Users/buck/.pub-cache/hosted/pub.dev/build_daemon-4.0.4",
-      "packageUri": "lib/",
-      "languageVersion": "3.6"
-    },
-    {
-      "name": "build_modules",
-      "rootUri": "file:///Users/buck/.pub-cache/hosted/pub.dev/build_modules-5.0.11",
       "packageUri": "lib/",
       "languageVersion": "3.6"
     },
@@ -188,12 +170,6 @@
       "languageVersion": "3.4"
     },
     {
-      "name": "ffi",
-      "rootUri": "file:///Users/buck/.pub-cache/hosted/pub.dev/ffi-2.1.4",
-      "packageUri": "lib/",
-      "languageVersion": "3.7"
-    },
-    {
       "name": "file",
       "rootUri": "file:///Users/buck/.pub-cache/hosted/pub.dev/file-7.0.1",
       "packageUri": "lib/",
@@ -290,12 +266,6 @@
       "languageVersion": "3.0"
     },
     {
-      "name": "jaspr_web_compilers",
-      "rootUri": "file:///Users/buck/.pub-cache/hosted/pub.dev/jaspr_web_compilers-4.1.1",
-      "packageUri": "lib/",
-      "languageVersion": "3.6"
-    },
-    {
       "name": "js",
       "rootUri": "file:///Users/buck/.pub-cache/hosted/pub.dev/js-0.7.2",
       "packageUri": "lib/",
@@ -356,18 +326,6 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "posix",
-      "rootUri": "file:///Users/buck/.pub-cache/hosted/pub.dev/posix-6.0.1",
-      "packageUri": "lib/",
-      "languageVersion": "3.0"
-    },
-    {
-      "name": "protobuf",
-      "rootUri": "file:///Users/buck/.pub-cache/hosted/pub.dev/protobuf-3.1.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.19"
-    },
-    {
       "name": "pub_semver",
       "rootUri": "file:///Users/buck/.pub-cache/hosted/pub.dev/pub_semver-2.1.5",
       "packageUri": "lib/",
@@ -384,12 +342,6 @@
       "rootUri": "file:///Users/buck/.pub-cache/hosted/pub.dev/rxdart-0.28.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
-    },
-    {
-      "name": "scratch_space",
-      "rootUri": "file:///Users/buck/.pub-cache/hosted/pub.dev/scratch_space-1.0.2",
-      "packageUri": "lib/",
-      "languageVersion": "2.19"
     },
     {
       "name": "shelf",
@@ -426,12 +378,6 @@
       "rootUri": "file:///Users/buck/.pub-cache/hosted/pub.dev/source_gen-2.0.0",
       "packageUri": "lib/",
       "languageVersion": "3.6"
-    },
-    {
-      "name": "source_maps",
-      "rootUri": "file:///Users/buck/.pub-cache/hosted/pub.dev/source_maps-0.10.13",
-      "packageUri": "lib/",
-      "languageVersion": "3.3"
     },
     {
       "name": "source_span",
@@ -548,7 +494,7 @@
       "languageVersion": "3.5"
     }
   ],
-  "generated": "2025-02-28T14:34:17.196002Z",
+  "generated": "2025-02-28T14:58:12.923148Z",
   "generator": "pub",
   "generatorVersion": "3.7.0",
   "flutterRoot": "file:///Users/buck/fvm/default",
