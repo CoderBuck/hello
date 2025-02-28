@@ -23,6 +23,7 @@ void main() {
   // [Document] renders the root document structure (<html>, <head> and <body>)
   // with the provided parameters and components.
   runApp(Document(
+    base: 'https://coderbuck.github.io/hello',
     title: 'hello',
     styles: [
       // Special import rule to include to another css file.
