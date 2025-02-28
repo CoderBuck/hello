@@ -10,7 +10,10 @@ import 'package:jaspr/server.dart';
 import 'app.dart';
 
 // This file is generated automatically by Jaspr, do not remove or edit.
+import 'constants/constants.dart';
 import 'jaspr_options.dart';
+
+
 
 void main() {
   // Initializes the server environment with the generated default options.
@@ -23,7 +26,7 @@ void main() {
   // [Document] renders the root document structure (<html>, <head> and <body>)
   // with the provided parameters and components.
   runApp(Document(
-    base: 'hello',
+    base: baseRepo,
     title: 'hello',
     styles: [
       // Special import rule to include to another css file.
