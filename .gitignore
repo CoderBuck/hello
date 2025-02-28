@@ -1,6 +1,6 @@
 # Files and directories created by pub.
 **/doc/api/
-hello/.dart_tool/
+/.dart_tool/
 .packages
 
 # Conventional directory for build output.
